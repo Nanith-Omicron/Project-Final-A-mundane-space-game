@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Nanov/source/repos/SoC/SoC/Content/Gumme.png</File>
+    <File>C:/Users/Nanov/source/repos/SoC/SoC/Content/Ground.png</File>
+    <File>C:/Users/Nanov/source/repos/SoC/SoC/Content/main.spritefont</File>
+    <File>C:/Users/Nanov/source/repos/SoC/SoC/Content/PSHIP_COLLIDER_I.png</File>
+    <File>C:/Users/Nanov/source/repos/SoC/SoC/Content/PSHIP_STAGE_I_IDLE.png</File>
+    <File>C:/Users/Nanov/source/repos/SoC/SoC/Content/Diesel_propulsion.png</File>
+    <File>C:/Users/Nanov/source/repos/SoC/SoC/Content/Attack_normal.png</File>
+    <File>C:/Users/Nanov/source/repos/SoC/SoC/Content/Laser_1_Animations.png</File>
+    <File>C:/Users/Nanov/source/repos/SoC/SoC/Content/Laser_1_Bound.png</File>
+    <File>C:/Users/Nanov/source/repos/SoC/SoC/Content/Enemy_1.png</File>
+    <File>C:/Users/Nanov/source/repos/SoC/SoC/Content/Laser_1_Contact_Animation.png</File>
+    <File>C:/Users/Nanov/source/repos/SoC/SoC/Content/Metal_Bits_1.png</File>
+    <File>C:/Users/Nanov/source/repos/SoC/SoC/Content/Metal_Bits_2.png</File>
+    <File>C:/Users/Nanov/source/repos/SoC/SoC/Content/Metal_Bits_3.png</File>
+    <File>C:/Users/Nanov/source/repos/SoC/SoC/Content/Metal_Bits_4.png</File>
+    <File>C:/Users/Nanov/source/repos/SoC/SoC/Content/Metal_Bits_5.png</File>
+    <File>C:/Users/Nanov/source/repos/SoC/SoC/Content/Enemy_2.png</File>
+    <File>C:/Users/Nanov/source/repos/SoC/SoC/Content/hyperdrive.png</File>
+    <File>C:/Users/Nanov/source/repos/SoC/SoC/Content/Enemy_3.png</File>
+    <File>C:/Users/Nanov/source/repos/SoC/SoC/Content/Planet.png</File>
+    <File>C:/Users/Nanov/source/repos/SoC/SoC/Content/Star.png</File>
+    <File>C:/Users/Nanov/source/repos/SoC/SoC/Content/Sun.png</File>
+    <File>C:/Users/Nanov/source/repos/SoC/SoC/Content/theme.ogg</File>
+    <File>C:/Users/Nanov/source/repos/SoC/SoC/Content/Enemy_4.png</File>
+    <File>C:/Users/Nanov/source/repos/SoC/SoC/Content/HP_Frame.png</File>
+    <File>C:/Users/Nanov/source/repos/SoC/SoC/Content/HP_Bar.png</File>
+    <File>C:/Users/Nanov/source/repos/SoC/SoC/Content/Bonus_1.png</File>
+    <File>C:/Users/Nanov/source/repos/SoC/SoC/Content/Bonus_2.png</File>
+    <File>C:/Users/Nanov/source/repos/SoC/SoC/Content/Enemy_5.png</File>
+    <File>C:/Users/Nanov/source/repos/SoC/SoC/Content/Boss.png</File>
+    <File>C:/Users/Nanov/source/repos/SoC/SoC/Content/record.png</File>
+  </SourceFiles>
+</SourceFileCollection>

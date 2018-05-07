@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Nanov/source/repos/SoC/SoC/Content/theme.ogg</SourceFile>
+  <SourceTime>2018-05-04T02:26:52.4940992-04:00</SourceTime>
+  <DestFile>C:/Users/Nanov/source/repos/SoC/SoC/Content/bin/Windows/theme.xnb</DestFile>
+  <DestTime>2018-05-07T10:26:43.2740688-04:00</DestTime>
+  <Importer>OggImporter</Importer>
+  <ImporterTime>2017-03-01T10:05:36-05:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2017-03-01T10:05:36-05:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/Nanov/source/repos/SoC/SoC/Content/bin/Windows/theme.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>
